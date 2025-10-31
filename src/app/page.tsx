@@ -41,7 +41,7 @@ export default function Home() {
         </div>
         <div className={"flex gap-10 transition-all duration-700 "+opacity}>
           <a target="_blank" className={"bg-[#2b3137] px-4 py-2 rounded-lg border-2 border-[#dcdcdc] "+linkState} href="https://github.com/hmutaz">Github</a>
-          <a target="_blank" className={"bg-[#dcdcdc] px-4 py-2 rounded-lg border-2 border-[#010101] text-[#dcdcdc]"+linkState} href="https://drive.google.com/file/d/1qil4l60mRqzkKtRHcCbLMCG4woDbsKXU/view?usp=sharing">Curriculum Vitae</a>
+          <a target="_blank" className={"bg-[#dcdcdc] px-4 py-2 rounded-lg border-2 border-[#010101] text-[#010101]"+linkState} href="https://drive.google.com/file/d/1qil4l60mRqzkKtRHcCbLMCG4woDbsKXU/view?usp=sharing">Curriculum Vitae</a>
           <a target="_blank" className={"bg-[#0a66c2] px-4 py-2 rounded-lg border-2 border-[#dcdcdc] "+linkState} href="https://www.linkedin.com/in/hudzaifah-al-mutaz-billah/">LinkedIn</a>
         </div>
       </div>
